@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Helpers\bin\Release\netcoreapp3.1\PeoplesBank.Helpers.deps.json
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Helpers\bin\Release\netcoreapp3.1\PeoplesBank.Helpers.dll
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Helpers\bin\Release\netcoreapp3.1\PeoplesBank.Helpers.pdb
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Helpers\obj\Release\netcoreapp3.1\PeoplesBank.Helpers.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Helpers\obj\Release\netcoreapp3.1\PeoplesBank.Helpers.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Helpers\obj\Release\netcoreapp3.1\PeoplesBank.Helpers.AssemblyInfo.cs
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Helpers\obj\Release\netcoreapp3.1\PeoplesBank.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Helpers\obj\Release\netcoreapp3.1\PeoplesBank.Helpers.dll
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Helpers\obj\Release\netcoreapp3.1\PeoplesBank.Helpers.pdb

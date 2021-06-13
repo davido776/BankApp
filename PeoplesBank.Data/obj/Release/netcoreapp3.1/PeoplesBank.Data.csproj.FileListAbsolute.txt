@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Data\bin\Release\netcoreapp3.1\PeoplesBank.Data.deps.json
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Data\bin\Release\netcoreapp3.1\PeoplesBank.Data.runtimeconfig.json
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Data\bin\Release\netcoreapp3.1\PeoplesBank.Data.runtimeconfig.dev.json
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Data\bin\Release\netcoreapp3.1\PeoplesBank.Data.dll
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Data\bin\Release\netcoreapp3.1\PeoplesBank.Data.pdb
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Data\bin\Release\netcoreapp3.1\PeoplesBank.Models.dll
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Data\bin\Release\netcoreapp3.1\PeoplesBank.Models.pdb
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Data\obj\Release\netcoreapp3.1\PeoplesBank.Data.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Data\obj\Release\netcoreapp3.1\PeoplesBank.Data.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Data\obj\Release\netcoreapp3.1\PeoplesBank.Data.AssemblyInfo.cs
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Data\obj\Release\netcoreapp3.1\PeoplesBank.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Data\obj\Release\netcoreapp3.1\PeoplesBank.Data.csproj.CopyComplete
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Data\obj\Release\netcoreapp3.1\PeoplesBank.Data.dll
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Data\obj\Release\netcoreapp3.1\PeoplesBank.Data.pdb
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Data\obj\Release\netcoreapp3.1\PeoplesBank.Data.genruntimeconfig.cache

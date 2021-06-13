@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Models\bin\Release\netcoreapp3.1\PeoplesBank.Models.deps.json
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Models\bin\Release\netcoreapp3.1\PeoplesBank.Models.dll
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Models\bin\Release\netcoreapp3.1\PeoplesBank.Models.pdb
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Models\obj\Release\netcoreapp3.1\PeoplesBank.Models.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Models\obj\Release\netcoreapp3.1\PeoplesBank.Models.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Models\obj\Release\netcoreapp3.1\PeoplesBank.Models.AssemblyInfo.cs
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Models\obj\Release\netcoreapp3.1\PeoplesBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Models\obj\Release\netcoreapp3.1\PeoplesBank.Models.dll
+C:\Users\hp\source\repos\weeklytask\PeoplesBank\PeoplesBank.Models\obj\Release\netcoreapp3.1\PeoplesBank.Models.pdb
